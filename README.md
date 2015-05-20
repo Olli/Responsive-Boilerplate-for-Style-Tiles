@@ -1,6 +1,6 @@
-.# This is my personal version in german. Use it if it helps you.
+### This is my personal version in german. Use it if it helps you.###
 
-﻿# Responsive Boilerplate for Style Tiles #
+### Responsive Boilerplate for Style Tiles ###
 
 Display your Style Tiles in beautiful, responsive way using valid HTML5/CSS3. This template is entirely and purposely based on the .PSD template provided by [Samantha Warren](https://twitter.com/SamanthaToy) at [StyleTil.es](http://styletil.es). If you don't know what a Style Tile is yet:
 
